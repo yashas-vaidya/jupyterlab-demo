@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+
+[scripts]
+
+lab = "jupyter lab"
+
+[dev-packages]
+
+[packages]
+
+jupyterlab = "*"
+matplotlib = "*"
+pandas = "*"
+scipy = "*"
+ipywidgets = "*"
+
+[requires]
+python_version = "3.5"
